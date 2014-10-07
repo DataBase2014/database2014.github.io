@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Welcome"
+date: 2014-10-07 14:25:19 +0200
+comments: true
+categories: [presentacion, inicio_curso]
+---
+
+### Bienvenido !
+
+![](https://cdn2.iconfinder.com/data/icons/windows-8-metro-style/512/database.png)
