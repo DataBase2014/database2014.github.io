@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Inicio del Proyecto"
+date: 2014-10-09 13:49:56 +0200
+comments: true
+categories: 
+---
+
+#### Bienvenido a nuestro blog !
+
+En estas páginas reflejaremos nuestros avances tanto en las prácticas de laboratorio como en el proyecto general de la asignatura.
+
+<!--more-->
+
+Iremos haciendo un log semanal en el blog con nuestros progresos y las dudas que hayan podido surgir durante el transcurso de la asignatura.
+
+Subscríbete para seguir de cerca las novedades del grupo: [RSS](http://database2014.github.io/atom.xml)

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Repositorio de Github"
+date: 2014-10-09 14:03:12 +0200
+comments: true
+categories: 
+---
+
+Si quieres ver el código fuente de nuestra página, puedes acceder al repositorio oficial desde aquí.
+
+->[![](http://yamitenshi.net/resources/images/github_button.png =200x)](https://github.com/DataBase2014/database2014.github.io)<-
