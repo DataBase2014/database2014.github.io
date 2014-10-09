@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[DataBases 2014]]></title>
+  <title><![CDATA[M&oumlebius Studios &reg]]></title>
   <link href="http://DataBase2014.github.io/atom.xml" rel="self"/>
   <link href="http://DataBase2014.github.io/"/>
-  <updated>2014-10-07T16:38:59+02:00</updated>
+  <updated>2014-10-09T14:19:43+02:00</updated>
   <id>http://DataBase2014.github.io/</id>
   <author>
     <name><![CDATA[Aguilar, Gonzalez y Sabin]]></name>
@@ -14,13 +14,31 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://DataBase2014.github.io/blog/2014/10/07/welcome/"/>
-    <updated>2014-10-07T14:25:19+02:00</updated>
-    <id>http://DataBase2014.github.io/blog/2014/10/07/welcome</id>
-    <content type="html"><![CDATA[<h3>Bienvenido !</h3>
+    <title type="html"><![CDATA[Repositorio de Github]]></title>
+    <link href="http://DataBase2014.github.io/blog/2014/10/09/github/"/>
+    <updated>2014-10-09T14:03:12+02:00</updated>
+    <id>http://DataBase2014.github.io/blog/2014/10/09/github</id>
+    <content type="html"><![CDATA[<p>Si quieres ver el código fuente de nuestra página, puedes acceder al repositorio oficial desde aquí.</p>
 
-<p><img src="https://cdn2.iconfinder.com/data/icons/windows-8-metro-style/512/database.png" alt="" /></p>
+<p style="text-align:center;"><a href="https://github.com/DataBase2014/database2014.github.io"><img src="http://yamitenshi.net/resources/images/github_button.png" width="200" alt="" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Inicio del Proyecto]]></title>
+    <link href="http://DataBase2014.github.io/blog/2014/10/09/inicio/"/>
+    <updated>2014-10-09T13:49:56+02:00</updated>
+    <id>http://DataBase2014.github.io/blog/2014/10/09/inicio</id>
+    <content type="html"><![CDATA[<h4>Bienvenido a nuestro blog !</h4>
+
+<p>En estas páginas reflejaremos nuestros avances tanto en las prácticas de laboratorio como en el proyecto general de la asignatura.</p>
+
+<!--more-->
+
+
+<p>Iremos haciendo un log semanal en el blog con nuestros progresos y las dudas que hayan podido surgir durante el transcurso de la asignatura.</p>
+
+<p>Subscríbete para seguir de cerca las novedades del grupo: <a href="http://database2014.github.io/atom.xml">RSS</a></p>
 ]]></content>
   </entry>
   
